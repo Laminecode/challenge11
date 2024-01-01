@@ -1,0 +1,265 @@
+{
+    "res" :{
+        "TVs" :[
+            {
+                "name" : "QN85C Samsung Neo QLED 4K",
+                "mark" : "SAMSUNG",
+                "feartures" : {
+                    "DisplayResolution" : "3,840 x 2,160",
+                    "OperatingSystem" : "Tizen OS",
+                    "DisplayType" : "4k QLED"
+                },
+                "price" : "78000DA",
+                "photo" : "https://images.samsung.com/is/image/samsung/p6pim/ca/feature/164404895/ca-feature-experience-the-wow-ofneo-qled-535335864?$FB_TYPE_K_JPG$"
+            },
+            {
+                "name" : "evo C3 77 inch 4K Smart TV 2023",
+                "mark" : "LG",
+                "feartures" : {
+                    "DisplayResolution" : "4K Ultra HD (3,840 x 2,160)",
+                    "OperatingSystem" : "webOS 23",
+                    "DisplayType" : "4K OLED"
+
+                },
+                "price" : "900000",
+                "photo" : "https://m.media-amazon.com/images/I/71HAwoOwqsL._AC_UF1000,1000_QL80_.jpg"
+            },
+            {
+                "name" : "evo G3 77 inch 4K Smart TV 2023",
+                "mark" : "LG",
+                "feartures" : {
+                    "DisplayResolution" : "4K Ultra HD (3,840 x 2,160)",
+                    "OperatingSystem" : "webOS 23",
+                    "DisplayType" : "4K OLED"
+
+                },
+                "price" : "100000",
+                "photo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-KDjDn8Z_WXNemg5Q1M0CmL9k1IKhrgK1tciYMOYOZl2yP3oYZW2LQqUcavRRNGSJds0&usqp=CAU"
+            },
+            {
+                "name" : "QNED MiniLED 99 Series 2021",
+                "mark" : "LG",
+                "feartures" : {
+                    "DisplayResolution" : "2K Ultra HD (3,840 x 2,160)",
+                    "OperatingSystem" : "webOS 21",
+                    "DisplayType" : "2K OLED"
+
+                },
+                "price" : "120000",
+                "photo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIZK5sM5yflSgrSS3iMbWnbEnuFSW_wmXgrA&usqp=CAU"
+            },
+            {
+                "name" : "75 Inch Class NANO75 UQA series",
+                "mark" : "LG",
+                "feartures" : {
+                    "DisplayResolution" : "4K Ultra HD (3,840 x 2,160)",
+                    "OperatingSystem" : "webOS",
+                    "DisplayType" : "Real 4K NanoCell Display"
+
+                },
+                "price" : "85000",
+                "photo" : "https://i.ytimg.com/vi/QKtHdXt5h1c/mqdefault.jpg"
+            }
+        ],
+        "smartphone" : [
+            {
+                "name" : "name1",
+                "mark" : "",
+                "feartures" : {
+                    "F1 " : "",
+                    "F2" : " ",
+                    "f3" : " "
+
+                },
+                "price" : "",
+                "photo" : ""
+            },
+            {
+                "name" : "name1",
+                "mark" : "",
+                "feartures" : {
+                    "F1 " : "",
+                    "F2" : " ",
+                    "f3" : " "
+
+                },
+                "price" : "",
+                "photo" : ""
+            },
+            {
+                "name" : "name1",
+                "mark" : "",
+                "feartures" : {
+                    "F1 " : "",
+                    "F2" : " ",
+                    "f3" : " "
+
+                },
+                "price" : "",
+                "photo" : ""
+            },
+            {
+                "name" : "name1",
+                "mark" : "",
+                "feartures" : {
+                    "F1 " : "",
+                    "F2" : " ",
+                    "f3" : " "
+
+                },
+                "price" : "",
+                "photo" : ""
+            }
+        ],
+        "Refrigerators" : [
+            {
+                "name" : "name1",
+                "mark" : "",
+                "feartures" : {
+                    "F1 " : "",
+                    "F2" : " ",
+                    "f3" : " "
+
+                },
+                "price" : "",
+                "photo" : ""
+            },
+            {
+                "name" : "name1",
+                "mark" : "",
+                "feartures" : {
+                    "F1 " : "",
+                    "F2" : " ",
+                    "f3" : " "
+
+                },
+                "price" : "",
+                "photo" : ""
+            },
+            {
+                "name" : "name1",
+                "mark" : "",
+                "feartures" : {
+                    "F1 " : "",
+                    "F2" : " ",
+                    "f3" : " "
+
+                },
+                "price" : "",
+                "photo" : ""
+            },
+            {
+                "name" : "name1",
+                "mark" : "",
+                "feartures" : {
+                    "F1 " : "",
+                    "F2" : " ",
+                    "f3" : " "
+
+                },
+                "price" : "",
+                "photo" : ""
+            }
+        ],
+        "Cameras" : [
+            {
+                "name" : "name1",
+                "mark" : "",
+                "feartures" : {
+                    "F1 " : "",
+                    "F2" : " ",
+                    "f3" : " "
+
+                },
+                "price" : "",
+                "photo" : ""
+            },
+            {
+                "name" : "name1",
+                "mark" : "",
+                "feartures" : {
+                    "F1 " : "",
+                    "F2" : " ",
+                    "f3" : " "
+
+                },
+                "price" : "",
+                "photo" : ""
+            },
+            {
+                "name" : "name1",
+                "mark" : "",
+                "feartures" : {
+                    "F1 " : "",
+                    "F2" : " ",
+                    "f3" : " "
+
+                },
+                "price" : "",
+                "photo" : ""
+            },
+            {
+                "name" : "name1",
+                "mark" : "",
+                "feartures" : {
+                    "F1 " : "",
+                    "F2" : " ",
+                    "f3" : " "
+
+                },
+                "price" : "",
+                "photo" : ""
+            }
+        ],
+        "smartWatch" : [
+            {
+                "name" : "name1",
+                "mark" : "",
+                "feartures" : {
+                    "F1 " : "",
+                    "F2" : " ",
+                    "f3" : " "
+
+                },
+                "price" : "",
+                "photo" : ""
+            },
+            {
+                "name" : "name1",
+                "mark" : "",
+                "feartures" : {
+                    "F1 " : "",
+                    "F2" : " ",
+                    "f3" : " "
+
+                },
+                "price" : "",
+                "photo" : ""
+            },
+            {
+                "name" : "name1",
+                "mark" : "",
+                "feartures" : {
+                    "F1 " : "",
+                    "F2" : " ",
+                    "f3" : " "
+
+                },
+                "price" : "",
+                "photo" : ""
+            },
+            {
+                "name" : "name1",
+                "mark" : "",
+                "feartures" : {
+                    "F1 " : "",
+                    "F2" : " ",
+                    "f3" : " "
+
+                },
+                "price" : "",
+                "photo" : ""
+            }
+        ]
+}
+}
